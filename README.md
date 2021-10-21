@@ -1,3 +1,1 @@
-# CIS241
-My first Github web page
-Zach G.S
+Hello World Zach Glover-Smith
